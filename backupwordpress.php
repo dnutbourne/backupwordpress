@@ -14,7 +14,7 @@ Network: true
 */
 
 /*
-Copyright 2011 - 2018 XIBO Ltd  (email : support@xibomarketing.com)
+Copyright 2011 - 2018 XIBO Ltd
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
